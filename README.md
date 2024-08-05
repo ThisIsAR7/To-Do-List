@@ -11,7 +11,7 @@ This project is a simple To-Do List application by [AR7](ar123456.netlify.app). 
 
 ## Demo
 
-You can view the live demo of the project [here]().
+You can view the live demo of the project [here](https://todolist-ar7.netlify.app/).
 
 ## Features
 
