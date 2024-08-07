@@ -1,6 +1,6 @@
 # To-Do-List
 
-This project is a simple To-Do List application by [AR7](ar123456.netlify.app). It allows users to add, mark, and delete tasks. The application is built using HTML, CSS, and JavaScript.
+This project is a simple To-Do List application by [AR7](https://arvinrezaei.com/). It allows users to add, mark, and delete tasks. The application is built using HTML, CSS, and JavaScript.
 
 ## Table of Contents
 
