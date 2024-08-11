@@ -11,7 +11,7 @@ This project is a simple To-Do List application by [AR7](https://arvinrezaei.com
 
 ## Demo
 
-You can view the live demo of the project [here](https://todolist-ar7.netlify.app/).
+To see a live demo of the hoverboard, open the `index.html` file in a web browser. You will see a grid of squares that change color and glow when you hover over them.
 
 ## Features
 
