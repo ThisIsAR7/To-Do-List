@@ -45,7 +45,7 @@ The tasks are saved in the browser's localStorage. This allows the tasks to pers
 
 ## Code Overview
 
-### HTML (`index.html`)
+### HTML (`.html`)
 
 ```html
 <!DOCTYPE html>
