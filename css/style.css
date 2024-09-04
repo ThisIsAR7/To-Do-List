@@ -82,7 +82,7 @@ ul li::before {
     height: 28px;
     width: 28px;
     border-radius: 50%;
-    background-image: url(img/icons/unchecked.png);
+    background-image: url(img/icons/unchecked.webp);
     background-size: cover;
     background-position: center;
     top: 12px;
