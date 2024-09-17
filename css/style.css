@@ -95,7 +95,7 @@ ul li.checked {
 }
 
 ul li.checked::before {
-    background-image: url(img/icons/check.webp);
+    background-image: url(img//check.webp);
 }
 
 ul li span {
