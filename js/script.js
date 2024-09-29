@@ -1,5 +1,5 @@
 const inputBox = document.getElementById("input-box");
-const listContainer = document.getElementById("list-container");
+const listContainer = document.("list-container");
 
 function addTask(){
     if(inputBox.value === ''){
